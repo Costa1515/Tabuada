@@ -1,0 +1,57 @@
+h1 {
+  text-align: center;
+  font-size: 36px;
+}
+input {
+  width: 50%;
+}
+#inputText {
+  display: flex;
+  align-items: center;
+  padding: 0.375rem 0.75rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: white;
+  text-align: center;
+  white-space: nowrap;
+  background-color: black;
+  border: 1px solid slategray;
+  border-radius: 0.375rem;
+}
+#inputMULT {
+  position: relative;
+  display: flex;
+  align-items: stretch;
+  justify-content: center;
+  width: 100%;
+}
+table {
+  text-align: center;
+}
+button {
+  background-color: green;
+  color: white;
+}
+table {
+  display: table;
+  border-spacing: 2px;
+  width: 60%;
+  margin: 25px;
+  background-color: black;
+  color: white;
+}
+#table1 {
+  display: flex;
+  justify-content: center;
+}
+th{
+    border: 1px solid white;
+}
+body{
+    background-color: bisque;
+}
+hr{
+    margin-bottom: 35px;
+    border: 1px solid ;
+}
